@@ -5,6 +5,10 @@ int suma(int a, int b){
     return a+b;
 }
 
+/*
+@ a y b son numeros
+@ retorna la resta
+*/
 int resta(int a, int b){
     return a-b;
 }
